@@ -1,0 +1,248 @@
+{
+    "title": "минимальная, максимальная длинна логина\\пароля",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1365,
+            "height": 953,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://omni.top-academy.ru/login/index#/",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://omni.top-academy.ru/login/index#/",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#cover-caption > div > div > div"
+                ],
+                [
+                    "xpath///*[@id=\"cover-caption\"]/div/div/div"
+                ],
+                [
+                    "pierce/#cover-caption > div > div > div"
+                ]
+            ],
+            "offsetY": 135.8125,
+            "offsetX": 10.5,
+            "duration": 445.39999997615814
+        },
+        {
+            "type": "change",
+            "value": "",
+            "selectors": [
+                [
+                    "aria/Логин"
+                ],
+                [
+                    "div.mt-5 > input"
+                ],
+                [
+                    "xpath///*[@id=\"cover-caption\"]/div/div/div/div[1]/form/div[1]/input"
+                ],
+                [
+                    "pierce/div.mt-5 > input"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#cover-caption > div > div"
+                ],
+                [
+                    "xpath///*[@id=\"cover-caption\"]/div/div"
+                ],
+                [
+                    "pierce/#cover-caption > div > div"
+                ]
+            ],
+            "offsetY": 210.8125,
+            "offsetX": 168.5
+        },
+        {
+            "type": "change",
+            "value": "",
+            "selectors": [
+                [
+                    "aria/Пароль"
+                ],
+                [
+                    "div.mt-3 > input"
+                ],
+                [
+                    "xpath///*[@id=\"cover-caption\"]/div/div/div/div[1]/form/div[2]/input"
+                ],
+                [
+                    "pierce/div.mt-3 > input"
+                ],
+                [
+                    "text/login"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Логин"
+                ],
+                [
+                    "div.mt-5 > input"
+                ],
+                [
+                    "xpath///*[@id=\"cover-caption\"]/div/div/div/div[1]/form/div[1]/input"
+                ],
+                [
+                    "pierce/div.mt-5 > input"
+                ]
+            ],
+            "offsetY": 27.8125,
+            "offsetX": 46.5
+        },
+        {
+            "type": "change",
+            "value": "dasdoikeemjmdmmfmmkek23455",
+            "selectors": [
+                [
+                    "aria/Логин"
+                ],
+                [
+                    "div.mt-5 > input"
+                ],
+                [
+                    "xpath///*[@id=\"cover-caption\"]/div/div/div/div[1]/form/div[1]/input"
+                ],
+                [
+                    "pierce/div.mt-5 > input"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Пароль"
+                ],
+                [
+                    "div.mt-3 > input"
+                ],
+                [
+                    "xpath///*[@id=\"cover-caption\"]/div/div/div/div[1]/form/div[2]/input"
+                ],
+                [
+                    "pierce/div.mt-3 > input"
+                ]
+            ],
+            "offsetY": 18.8125,
+            "offsetX": 85.5
+        },
+        {
+            "type": "change",
+            "value": "jfdlskfjlkerupkoa,,jcocodoekkekemmifi1235",
+            "selectors": [
+                [
+                    "aria/Пароль"
+                ],
+                [
+                    "div.mt-3 > input"
+                ],
+                [
+                    "xpath///*[@id=\"cover-caption\"]/div/div/div/div[1]/form/div[2]/input"
+                ],
+                [
+                    "pierce/div.mt-3 > input"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Войти"
+                ],
+                [
+                    "div.px-3 button"
+                ],
+                [
+                    "xpath///*[@id=\"cover-caption\"]/div/div/div/div[1]/form/button"
+                ],
+                [
+                    "pierce/div.px-3 button"
+                ],
+                [
+                    "text/Войти"
+                ]
+            ],
+            "offsetY": 15.8125,
+            "offsetX": 33.859375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Логин"
+                ],
+                [
+                    "div.mt-5 > input"
+                ],
+                [
+                    "xpath///*[@id=\"cover-caption\"]/div/div/div/div[1]/form/div[1]/input"
+                ],
+                [
+                    "pierce/div.mt-5 > input"
+                ],
+                [
+                    "text/dasdoikeemjmdmmfmmkek23455"
+                ]
+            ],
+            "offsetY": 24.8125,
+            "offsetX": 242.5
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Логин"
+                ],
+                [
+                    "div.mt-5 > input"
+                ],
+                [
+                    "xpath///*[@id=\"cover-caption\"]/div/div/div/div[1]/form/div[1]/input"
+                ],
+                [
+                    "pierce/div.mt-5 > input"
+                ],
+                [
+                    "text/dasdoikeemjmdmmfmmkek23455"
+                ]
+            ],
+            "offsetY": 21.8125,
+            "offsetX": 238.5
+        }
+    ]
+}
